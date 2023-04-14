@@ -12,7 +12,7 @@ The "Chat-Connect-App" is a social messaging platform developed in Kotlin using 
       <li>Android version 7.0</li>
   </ul>
   
-# Trailhead Profile Public URL
+# Google Profile Public URL
  
    <ul>
       <li>Team Leader Hari Prasad A  - https://developers.google.com/profile/u/111829552851506583221?authuser=1</li>
