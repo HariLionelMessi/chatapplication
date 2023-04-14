@@ -30,7 +30,7 @@ The "Chat-Connect-App" is a social messaging platform developed in Kotlin using 
 [Download project documentation](https://drive.google.com/file/d/1Q5HVYcGHUe49KEHZCXaaJBLQ6cEvXgNO/view?usp=share_link)
 
 # Demo Video
-https://user-images.githubusercontent.com/87922686/232083297-6765cb47-9ca5-454a-957c-7b2cee895ec4.mp4
+(https://user-images.githubusercontent.com/87922686/232083297-6765cb47-9ca5-454a-957c-7b2cee895ec4.mp4)
 https://drive.google.com/file/d/1aQ1qFqx1UdrpSgm1mYCaIK6EI78euQw9/view?usp=share_link
 
 
