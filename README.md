@@ -15,8 +15,8 @@ The "Chat-Connect-App" is a social messaging platform developed in Kotlin using 
 # Trailhead Profile Public URL
  
    <ul>
-      <li>Team Leader - https://trailblazer.me/id/hariprasad20</li>
-      <li>Team Member 1 - https://trailblazer.me/id/raghul-m</li>
+      <li>Team Leader   - https://trailblazer.me/id/hariprasad20</li>
+      <li>Team Member 1 - https://trailblazer.me/id/skannan108</li>
       <li>Team Member 2 - https://trailblazer.me/id/sownther-a</li>
   </ul>
 
