@@ -17,7 +17,7 @@ The "Chat-Connect-App" is a social messaging platform developed in Kotlin using 
    <ul>
       <li>Team Leader Hari Prasad A  - https://developers.google.com/profile/u/111829552851506583221?authuser=1</li>
       <li>Team Member 1 - Santhosh Kannan U - https://developers.google.com/profile/u/108366491910008846787</li>
-      <li>Team Member 2 - Sathish E - [https://trailblazer.me/id/sownther-a](https://developers.google.com/profile/u/101436949679468454678?authuser=2)</li>
+      <li>Team Member 2 - Sathish E - (https://developers.google.com/profile/u/101436949679468454678?authuser=2)</li>
   </ul>
 
 # Preview
